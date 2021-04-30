@@ -1,3 +1,8 @@
+# Management System
+본 프로젝트는 '나동빈'님의 강의를 기준으로 React Study용으로 
+만들고 있는 프로젝트입니다. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
