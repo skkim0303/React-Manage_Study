@@ -1,6 +1,7 @@
 # Management System
 본 프로젝트는 '나동빈'님의 강의를 기준으로 React Study용으로 
 만들고 있는 프로젝트입니다. 
+중간에 에러발생으로 처음부터 다시 시작하는 과정을 기록합니다. 
 
 
 # Getting Started with Create React App
